@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>60512224-8e66-466c-b659-e994b5bd0f04</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Szkoła\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\GitHub\StudentPicker\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>24A185C889D162BC670809453B514263392C812A4DF3E345EC4030B2121BC049</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>60512224-8e66-466c-b659-e994b5bd0f04_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>60512224-8e66-466c-b659-e994b5bd0f04_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Szkoła\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-02-27T22:38:28.808</Modified>
+      <Modified>2024-02-27T23:19:52.725</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-02-27T22:38:27.506</Modified>
+      <Modified>2024-02-27T23:19:52.043</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.runtimeconfig.json">
       <PackagePath>StudentPicker.runtimeconfig.json</PackagePath>
-      <Modified>2024-02-26T18:01:14.614</Modified>
+      <Modified>2024-02-27T23:16:46.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.dll">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.dll">
       <PackagePath>StudentPicker.dll</PackagePath>
-      <Modified>2024-02-27T22:38:26.148</Modified>
+      <Modified>2024-02-27T23:19:50.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>StudentPicker.exe</PackagePath>
-      <Modified>2024-02-27T22:38:26.192</Modified>
+      <Modified>2024-02-27T23:19:50.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.0\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -905,9 +905,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.deps.json">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\StudentPicker.deps.json">
       <PackagePath>StudentPicker.deps.json</PackagePath>
-      <Modified>2024-02-27T22:38:28.561</Modified>
+      <Modified>2024-02-27T23:19:52.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.49\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -921,239 +921,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-10-27T23:27:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-02-20T22:19:48.464</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:08.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:08.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:08.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:08.918</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.037</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-02-20T22:19:48.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-02-20T22:19:48.449</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-02-26T18:01:09.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.549</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-02-26T18:01:09.285</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-02-26T18:01:09.298</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-02-26T18:01:09.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-02-26T18:01:09.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-02-26T18:01:09.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-02-26T18:01:09.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-02-26T18:01:09.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-02-26T18:01:09.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-02-26T18:01:09.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-02-26T18:01:09.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.147</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-02-26T18:01:09.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-02-26T18:01:09.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-02-26T18:01:09.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-02-26T18:01:09.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-02-26T18:01:09.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.425</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.351</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.322</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.324</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.331</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.454</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.474</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-02-26T18:01:09.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-02-26T18:01:09.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-02-26T18:01:09.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-02-26T18:01:09.267</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Szkoła\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\GitHub\StudentPicker\StudentPicker\StudentPicker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-02-26T18:01:09.325</Modified>
     </AppxPackagedFile>

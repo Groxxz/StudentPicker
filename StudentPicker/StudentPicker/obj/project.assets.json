@@ -23928,11 +23928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Szkoła\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
+      "projectUniqueName": "D:\\GitHub\\StudentPicker\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
       "projectName": "StudentPicker",
-      "projectPath": "D:\\Szkoła\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
+      "projectPath": "D:\\GitHub\\StudentPicker\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Szkoła\\StudentPicker\\StudentPicker\\obj\\",
+      "outputPath": "D:\\GitHub\\StudentPicker\\StudentPicker\\StudentPicker\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

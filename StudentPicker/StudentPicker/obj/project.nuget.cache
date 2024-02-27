@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzDRUYTsFZvk4qYd0gtfzuvA5BWwjGWsQKASVIe5YkBYs3j421lTBKtM4OMrHG4+KgdUP7+8AS4TykgbzU80PA==",
+  "dgSpecHash": "vsQGILKB7/1StDCEJTUEpRQwnw1nPDycQUaizpppbznqAd1GmAOWki0GMjfbt5BZdW31MQweRH7DDHobMIwY1Q==",
   "success": true,
-  "projectFilePath": "D:\\Szkoła\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
+  "projectFilePath": "D:\\GitHub\\StudentPicker\\StudentPicker\\StudentPicker\\StudentPicker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\googlegson\\2.9.1\\googlegson.2.9.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

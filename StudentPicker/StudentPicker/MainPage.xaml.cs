@@ -115,10 +115,6 @@ namespace StudentPicker
                             await DisplayAlert("Błąd", "Nieprawidłowy format ID.", "OK");
                         }
                     }
-                    else
-                    {
-                        await DisplayAlert("Błąd", "Nieprawidłowy format linii.", "OK");
-                    }
                 }
             }
         }

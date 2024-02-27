@@ -1,1 +1,1 @@
-D:\Szkoła\StudentPicker\StudentPicker\StudentPicker.csproj;x64
+D:\GitHub\StudentPicker\StudentPicker\StudentPicker\StudentPicker.csproj;x64
