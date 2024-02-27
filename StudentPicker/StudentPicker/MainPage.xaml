@@ -1,0 +1,35 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:StudentPicker"
+             x:Class="StudentPicker.MainPage"
+             BackgroundColor="black"
+             Title="System losowania uczniów">
+    
+    <StackLayout Padding="20">
+
+        <HorizontalStackLayout>
+
+            <Button Text="Dodaj ucznia"
+                    Clicked="AddStudentButton_Clicked"/>
+
+            <Button Text="Utwórz klasę"
+                    Clicked="CreateClassButton_Clicked"/>
+
+            <Button Text="Wczytaj klasę"
+                    Clicked="LoadClassButton_Clicked"/>
+
+            <Button Text="Losuj uczniów"
+                    Clicked="PickStudentButton_Clicked"/>
+
+            <Button Text="Edytuj uczniów"
+                    Clicked="EditStudentButton_Clicked"/>
+
+        </HorizontalStackLayout>
+
+        <StackLayout x:Name="studentsStackLayout">
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
+
